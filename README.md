@@ -56,7 +56,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt how to use the useForm hook from react hook form and to manage form input fields and handle form submit. I also learnt how to validate form fields by using zod with ths useForm hook, with the help of zod reslover. I learnt that this is a better way of doing things than just declaring several useState Hooks and having an onChange event in each field
+I learned how to use the useForm hook from React Hook Form to manage input fields and handle form submission more efficiently. I also gained hands-on experience with form validation using Zod in combination with the useForm hook, thanks to the Zod resolver. Compared to manually managing state with multiple useState hooks and onChange handlers for each input, this approach felt much cleaner and more scalable, especially as the form grew in complexity.
 
 ### Continued development
 
@@ -74,9 +74,7 @@ Overall, this was a fun and rewarding challenge. I’m proud of the progress so 
 - Frontend Mentor - [@mavic01](https://www.frontendmentor.io/profile/mavic01)
 - Twitter - [@IberiV](https://x.com/IberiV)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
-I’m grateful to my mentor and boss, Mr. Oluwasetemi Ojo, for his clear teaching, patient guidance, and constant encouragement throughout my learning journey. His support has made a meaningful difference.
+I’m grateful to my mentor and boss, Mr. Oluwasetemi Ojo, for his clear teaching, patient guidance, and constant encouragement throughout my learning journey.
 
