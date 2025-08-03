@@ -93,7 +93,7 @@ export default function App() {
           </div>
         </section>
 
-        {/* FORM SECTION */}
+        {/* FORM AND SUBMISSION SUCCESS SECTION  */}
         <section
           className="mt-34 flex-[2] h-screen bg-white min-[1280px]:flex-[2] min-[1280px]:mt-0 min-[1280px]:flex min-[1280px]:items-center min-[1280px]:justify-center"
           aria-label="Card Details Form"
@@ -133,7 +133,7 @@ export default function App() {
           ) : (
             <form
               onSubmit={handleSubmit(onSubmit)}
-              className="max-w-md mx-auto p-6 bg-white rounded-md space-y-4"
+              className="max-w-md mx-auto mb-6 p-6 bg-white rounded-md space-y-4"
               aria-label="Card input form"
             >
               {/* Name */}
