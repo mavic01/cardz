@@ -34,6 +34,8 @@ Users should be able to:
 
 ### Screenshot
 
+- [Preview](/public/preview.png)
+
 ### Links
 
 - Solution URL: [View the project on GitHub](https://github.com/mavic01/cardz/)
