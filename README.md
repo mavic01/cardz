@@ -78,5 +78,5 @@ Overall, this was a fun and rewarding challenge. I’m proud of the progress so 
 
 ## Acknowledgments
 
-I’m grateful to my mentor and boss, Mr. Oluwasetemi Ojo, for his clear teaching, patient guidance, and constant encouragement throughout my learning journey.
+I’m grateful to Mr. Oluwasetemi Ojo for his clear teaching, patient guidance, and constant encouragement throughout my learning journey.
 
